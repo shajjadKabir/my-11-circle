@@ -1,0 +1,109 @@
+[
+    {
+        "id" : "1",
+        "name" : "Messi",
+        "transferFee" : 700,
+        "club":"Barca",
+        "image" : "https://i.ibb.co/StNrHST/Lionel-Messi-Barcelona.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Ronaldo",
+        "transferFee" : 133,
+        "club":"Juventas",
+        "image" : "https://i.ibb.co/cxV3kSH/ronaldo.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Neymar",
+        "transferFee" : 222,
+        "club":"Psg",
+        "image" : "https://i.ibb.co/82fsKdv/neymar.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Eden Hazard",
+        "transferFee" : 103.5,
+        "club":"Real madrid",
+        "image" : "https://i.ibb.co/zGtkj6d/Hazard.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Mason mount",
+        "transferFee" : 41,
+        "club":"Chelsea",
+        "image" : "https://i.ibb.co/0BySYtX/Mason-Mount.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "Werner",
+        "transferFee" : 50,
+        "club":"Chelsea",
+        "image" : "https://i.ibb.co/tBF8rBF/Werner.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "Bruno Fernandes",
+        "transferFee" : 58,
+        "club":"Man Utd",
+        "image" : "https://i.ibb.co/r0z7QpR/bruno-fernandes.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "De Bryune",
+        "transferFee" : 55,
+        "club":"Man City",
+        "image" : "https://i.ibb.co/JrQq1yJ/De-bryune.jpg"
+    },
+    {
+        "id" : "9",
+        "name" : "Mo Salah",
+        "transferFee" : 57,
+        "club":"Liverpool",
+        "image" : "https://i.ibb.co/ZhnDd6N/Salah.jpg"
+    },
+    {
+        "id" : "10",
+        "name" : "Sdio Mane",
+        "transferFee" : 130,
+        "club":"Liverpool",
+        "image" : "https://i.ibb.co/ZBNP8z4/sadio-mane1-20201003171108.jpg"
+    },
+    {
+        "id" : "11",
+        "name" : "Allison",
+        "transferFee" : 80,
+        "club":"Liverpool",
+        "image" : "https://i.ibb.co/94cqg50/Allison.jpg"
+    },
+    {
+        "id" : "12",
+        "name" : "Kyllian Mbappe",
+        "transferFee" :210,
+        "club":"PSG",
+        "image" : "https://i.ibb.co/tJ0NJH6/Mbappe.jpg"
+    },
+    {
+        "id" : "13",
+        "name" : "Henderson",
+        "transferFee" : 27,
+        "club":"Liverpool",
+        "image" : "https://i.ibb.co/PwPTxdD/Henderson.jpg"
+    },
+    {
+        "id" : "14",
+        "name" : "Firmino",
+        "transferFee" : 40,
+        "club":"Liverpool",
+        "image" : "https://i.ibb.co/nnYvRPT/Roberto-Firminho.jpg" 
+    },
+    {
+        "id" : "15",
+        "name" : "Alexndar Arnold",
+        "transferFee" : 120,
+        "club":"Liverpool",
+        "image" : "https://i.ibb.co/W3XSN4k/Arnold.jpg"
+    }
+    
+
+]

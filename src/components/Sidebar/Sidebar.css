@@ -1,0 +1,24 @@
+.cart {
+    margin-top: 15px;
+}
+
+.card{
+    min-width: 120px;
+   
+}
+.card-body{
+    margin: 10px 10px;
+}
+.player_card {
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+     width: calc(55% - 10px);
+}
+
+h4 {
+    color: rgb(29, 39, 27);
+}
+

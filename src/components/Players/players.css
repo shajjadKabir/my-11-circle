@@ -1,0 +1,16 @@
+.players_list{
+    padding: 50px 50px;
+    display: flex;
+    margin: 10px 10px;
+}
+.players {
+    width: 45%;
+    margin-left: 20px;
+    margin-right: 5px;
+    padding: 4px;
+    border-right: 1px solid lightgray;
+}
+.player_card {
+    width: calc(55% - 10px);
+   
+}
