@@ -16,7 +16,7 @@ const Player = (props) => {
                         props.addToCartHandler(props.player)
                         setIsClicked(true) 
                      }} className="btn btn-success">
-                        {isClicked ? "✓ Already added " : "Add to squad"}
+                        {isClicked ? "✓ Already add " : "Add to squad"}
                     </button>
                 </div>
             </div>
